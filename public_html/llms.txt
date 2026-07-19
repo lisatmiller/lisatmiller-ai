@@ -5,7 +5,7 @@
 ## Pages
 - [Home](https://lisatmiller.ai/)
 - [Services](https://lisatmiller.ai/services/)
-- [About Lisa T. Miller](https://lisatmiller.ai/about/)
+- [About Lisa T. Miller](https://lisatmiller.ai/about-lisa-t-miller/)
 - [AI for Healthcare](https://lisatmiller.ai/ai-healthcare/)
 - [AI for the Business of Healthcare](https://lisatmiller.ai/ai-business-of-healthcare/)
 - [Resources](https://lisatmiller.ai/resources/)
