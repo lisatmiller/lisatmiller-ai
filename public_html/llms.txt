@@ -1,6 +1,6 @@
 # Lisa T. Miller
 
-> Lisa T. Miller is an AI in healthcare strategist with 25 years of experience. She generated $250 million in sales at VIE Healthcare, authored The Executive YES, and hosts the Selling to Healthcare podcast. She helps healthcare practices and organizations use AI to fix revenue leaks, automate workflows, and become visible in AI search results.
+> Lisa T. Miller is an AI in healthcare strategist with 25 years of experience. She generated $250 million in sales at VIE Healthcare, authored The Executive YES. She helps healthcare practices and organizations use AI to fix revenue leaks, automate workflows, and become visible in AI search results.
 
 ## Pages
 - [Home](https://lisatmiller.ai/)
@@ -22,10 +22,8 @@
 - 25 years in healthcare sales and leadership
 - Generated $250 million in sales at VIE Healthcare
 - Author of "The Executive YES"
-- Host of "Selling to Healthcare" podcast (24 episodes)
-- Based in Palm Beach Gardens, FL
+- - Based in Palm Beach Gardens, FL
 - Contact: lisa@lisatmiller.com, 786-214-9024
 
 ## Partner Sites
 - [State of AI for Small Business](https://stateofaiforsmallbusiness.com) - Content hub and AI Opportunity Atlas
-- [Selling to Healthcare Podcast](https://sellingtohealthcarepodcast.com) - 24 episodes on healthcare sales and AI
