@@ -1,46 +1,96 @@
 {
-  "schema_version": "v1",
-  "name_for_model": "Lisa T. Miller AI Healthcare",
-  "name_for_human": "Lisa T. Miller",
-  "description_for_model": "Lisa T. Miller is an AI in healthcare strategist with more than 30 years inside hospital operations. She founded VIE Healthcare Consulting in 1999, generated over $1 billion in documented savings, holds two U.S. patents, and now guides health systems through practical AI adoption. The site covers AI for healthcare (clinical documentation, chart review, risk stratification, patient access, revenue cycle), AI for the business of healthcare (capacity forecasting, service line profitability, CFO and COO operations support), verified statistics and benchmarks, and a work-first methodology for deploying AI with measurable ROI.",
-  "description_for_human": "AI in healthcare strategy, revenue cycle optimization, and work-first AI adoption for health systems.",
-  "url": "https://lisatmiller.ai",
+  "schema_version": "1.0",
+  "name": "Lisa T. Miller",
+  "description": "AI strategy for healthcare operations. Articles, verified statistics, and a readiness assessment on AI in healthcare.",
   "contact_email": "lisatmiller.ops@gmail.com",
-  "resources": [
+  "url": "https://lisatmiller.ai/",
+  "pages": [
     {
+      "title": "Home",
       "url": "https://lisatmiller.ai/",
-      "description": "Homepage with AI strategy positioning for hospital and health system operations",
-      "topics": ["AI strategy", "healthcare operations", "hospital AI"]
+      "description": "AI strategy for hospital and health system operations"
     },
     {
+      "title": "Services",
       "url": "https://lisatmiller.ai/services/",
-      "description": "AI assessment, installation, and enablement services for health systems",
-      "topics": ["AI services", "AI assessment", "AI deployment"]
+      "description": "AI assessment, installation, and enablement for health systems"
     },
     {
-      "url": "https://lisatmiller.ai/ai-healthcare/",
-      "description": "What AI can do in healthcare today across 10 use case categories",
-      "topics": ["AI healthcare", "clinical AI", "AI use cases"]
-    },
-    {
-      "url": "https://lisatmiller.ai/ai-business-of-healthcare/",
-      "description": "Nine areas where AI carries real work in the business of healthcare",
-      "topics": ["business of healthcare", "AI operations", "revenue cycle"]
-    },
-    {
-      "url": "https://lisatmiller.ai/statistics/",
-      "description": "Verified statistics and benchmarks on AI in healthcare with sourced figures",
-      "topics": ["healthcare AI statistics", "benchmarks", "ROI data"]
-    },
-    {
-      "url": "https://lisatmiller.ai/resources/",
-      "description": "Articles and guides on AI in healthcare including revenue cycle, CFO strategy, and work-first adoption",
-      "topics": ["AI articles", "healthcare AI guides", "AI adoption"]
-    },
-    {
+      "title": "About Lisa T. Miller",
       "url": "https://lisatmiller.ai/about-lisa-t-miller/",
-      "description": "About Lisa T. Miller, 30+ years in hospital operations, founder of VIE Healthcare, two U.S. patents",
-      "topics": ["Lisa T. Miller", "VIE Healthcare", "healthcare consultant"]
+      "description": "30+ years in hospital operations, founder of VIE Healthcare, two U.S. patents"
+    },
+    {
+      "title": "AI for Healthcare",
+      "url": "https://lisatmiller.ai/ai-healthcare/",
+      "description": "What AI can do in healthcare today across 10 use case categories"
+    },
+    {
+      "title": "AI for the Business of Healthcare",
+      "url": "https://lisatmiller.ai/ai-business-of-healthcare/",
+      "description": "Nine areas where AI carries real work in healthcare operations"
+    },
+    {
+      "title": "Resources",
+      "url": "https://lisatmiller.ai/resources/",
+      "description": "Articles, statistics, and a readiness assessment on AI in healthcare"
+    },
+    {
+      "title": "Articles & Guides",
+      "url": "https://lisatmiller.ai/resources/articles/",
+      "description": "Six practical articles on AI in healthcare"
+    },
+    {
+      "title": "Statistics and Benchmarks",
+      "url": "https://lisatmiller.ai/resources/statistics/",
+      "description": "Verified healthcare AI statistics and benchmarks, every figure sourced"
+    },
+    {
+      "title": "Where Does AI Fit? Readiness Assessment",
+      "url": "https://lisatmiller.ai/resources/where-does-ai-fit/",
+      "description": "Eight-question self-assessment, three minutes, no email required"
+    },
+    {
+      "title": "What AI Can Actually Do for the Revenue Cycle",
+      "url": "https://lisatmiller.ai/resources/what-ai-can-do-for-revenue-cycle/",
+      "description": "Denial prevention, eligibility verification, claim scrubbing, and appeals automation"
+    },
+    {
+      "title": "Deciding Where AI Fits, a CFO's Guide",
+      "url": "https://lisatmiller.ai/resources/deciding-where-ai-fits-cfo-guide/",
+      "description": "How to evaluate AI opportunities by dollars and hours, not hype"
+    },
+    {
+      "title": "AI Is Not a Software Purchase",
+      "url": "https://lisatmiller.ai/resources/ai-is-not-a-software-purchase/",
+      "description": "Why health systems fail at AI when they start with the tool instead of the work"
+    },
+    {
+      "title": "The Work Nobody Went Into Healthcare to Do",
+      "url": "https://lisatmiller.ai/resources/work-nobody-went-into-healthcare-to-do/",
+      "description": "Business-side workflows consuming your best people and what AI can absorb"
+    },
+    {
+      "title": "Your Best People Carry Your Most Broken Processes",
+      "url": "https://lisatmiller.ai/resources/your-best-people-carry-broken-processes/",
+      "description": "How invisible process gaps get filled by your best people"
+    },
+    {
+      "title": "Everyone Is Selling Intelligence. Nobody Has Read Your Operations.",
+      "url": "https://lisatmiller.ai/resources/everyone-is-selling-intelligence/",
+      "description": "Why understanding your own work comes before choosing an AI platform"
+    },
+    {
+      "title": "Contact",
+      "url": "https://lisatmiller.ai/contact/",
+      "description": "Schedule an executive strategy call"
     }
-  ]
+  ],
+  "capabilities": {
+    "search": false,
+    "streaming": false
+  },
+  "auth": {
+    "type": "none"
+  }
 }

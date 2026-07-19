@@ -8,9 +8,10 @@
 - [About Lisa T. Miller](https://lisatmiller.ai/about-lisa-t-miller/): 30+ years in hospital operations, founder of VIE Healthcare, two U.S. patents
 - [AI for Healthcare](https://lisatmiller.ai/ai-healthcare/): What AI can do in healthcare today across 10 use case categories
 - [AI for the Business of Healthcare](https://lisatmiller.ai/ai-business-of-healthcare/): Nine areas where AI carries real work in healthcare operations
-- [Statistics and Benchmarks](https://lisatmiller.ai/statistics/): Verified healthcare AI statistics and benchmarks, every figure sourced
-- [Resources](https://lisatmiller.ai/resources/): Articles and guides on AI in healthcare
-- [Where Does AI Fit? Readiness Assessment](https://lisatmiller.ai/where-does-ai-fit/): Eight-question self-assessment, three minutes, no email required
+- [Resources](https://lisatmiller.ai/resources/): Articles, statistics, and a readiness assessment on AI in healthcare
+- [Articles & Guides](https://lisatmiller.ai/resources/articles/): Six practical articles on AI in healthcare
+- [Statistics and Benchmarks](https://lisatmiller.ai/resources/statistics/): Verified healthcare AI statistics and benchmarks, every figure sourced
+- [Where Does AI Fit? Readiness Assessment](https://lisatmiller.ai/resources/where-does-ai-fit/): Eight-question self-assessment, three minutes, no email required
 - [Contact](https://lisatmiller.ai/contact/): Schedule an executive strategy call
 
 ## Articles
