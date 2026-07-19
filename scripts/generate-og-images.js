@@ -35,6 +35,7 @@ const PAGES = [
   ['og-resources',                  'Resources',                                          'Articles and Guides on AI in Healthcare',             'RESOURCES'],
   ['og-contact',                    'Contact Lisa T. Miller',                             'Schedule an Executive Strategy Call',                 'CONTACT'],
   ['og-statistics',                 'Statistics and Benchmarks',                          'AI and the Business of Healthcare',                   'DATA'],
+  ['og-where-does-ai-fit',          'Where Does AI Fit?',                                 'AI Readiness Assessment — 8 Questions, 3 Minutes',    'INTERACTIVE'],
   ['og-article-revenue-cycle',      'What AI Can Actually Do for the Revenue Cycle',      'An honest look at where AI carries weight today',     'ARTICLE'],
   ['og-article-cfo-guide',          "Deciding Where AI Fits, a CFO Guide",               'A framework for evaluating AI investments',           'ARTICLE'],
   ['og-article-software-purchase',  'AI Is Not a Software Purchase',                      'Why AI is an operating shift, not a line item',       'ARTICLE'],
