@@ -9,6 +9,7 @@
 - [AI for Healthcare](https://lisatmiller.ai/ai-healthcare/)
 - [AI for the Business of Healthcare](https://lisatmiller.ai/ai-business-of-healthcare/)
 - [Resources](https://lisatmiller.ai/resources/)
+- [Statistics and Benchmarks](https://lisatmiller.ai/statistics/)
 - [Contact](https://lisatmiller.ai/contact/)
 
 ## Articles
