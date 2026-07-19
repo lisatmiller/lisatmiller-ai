@@ -1,6 +1,6 @@
 # Lisa T. Miller
 
-> Lisa T. Miller is an AI in healthcare strategist with 25 years of experience. She generated $250 million in sales at VIE Healthcare, authored The Executive YES. She helps healthcare practices and organizations use AI to fix revenue leaks, automate workflows, and become visible in AI search results.
+> Lisa T. Miller is an AI in healthcare strategist with more than 30 years inside hospital operations. She founded VIE Healthcare Consulting in 1999, generated over $1 billion in documented savings, holds two U.S. patents, and now guides health systems through practical AI adoption. She helps healthcare organizations use AI to fix revenue leaks, automate workflows, and return capacity to their people.
 
 ## Pages
 - [Home](https://lisatmiller.ai/)
@@ -11,19 +11,29 @@
 - [Resources](https://lisatmiller.ai/resources/)
 - [Contact](https://lisatmiller.ai/contact/)
 
+## Articles
+- [What AI Can Actually Do for the Revenue Cycle](https://lisatmiller.ai/resources/what-ai-can-do-for-revenue-cycle/)
+- [Deciding Where AI Fits, a CFO's Guide](https://lisatmiller.ai/resources/deciding-where-ai-fits-cfo-guide/)
+- [AI Is Not a Software Purchase](https://lisatmiller.ai/resources/ai-is-not-a-software-purchase/)
+- [The Work Nobody Went Into Healthcare to Do](https://lisatmiller.ai/resources/work-nobody-went-into-healthcare-to-do/)
+- [Your Best People Carry Your Most Broken Processes](https://lisatmiller.ai/resources/your-best-people-carry-broken-processes/)
+- [Everyone Is Selling Intelligence. Nobody Has Read Your Operations.](https://lisatmiller.ai/resources/everyone-is-selling-intelligence/)
+
 ## Key Topics
-- AI for healthcare practices: 24/7 call answering, automated scheduling, dormant patient recall
-- AI for the business of healthcare: workflow automation, insurance verification, speed to lead
-- Answer Engine Optimization (AEO) for healthcare: making practices visible in AI search
-- Revenue leak diagnosis for healthcare practices
-- HIPAA-aware AI implementation
+- AI in healthcare: clinical documentation, chart review, risk stratification, patient access, revenue cycle
+- AI for the business of healthcare: capacity forecasting, service line profitability, CFO/COO operations support
+- Work-first AI adoption: map the workflow, baseline it, match proven capability, prove in 90 days
+- Revenue cycle: denial prevention, eligibility verification, claim scrubbing, appeals automation
+- Capacity returned, not headcount removed
 
 ## About Lisa T. Miller
-- 25 years in healthcare sales and leadership
-- Generated $250 million in sales at VIE Healthcare
-- Author of "The Executive YES"
-- - Based in Palm Beach Gardens, FL
-- Contact: lisa@lisatmiller.com, 786-214-9024
+- More than 30 years inside hospital operations
+- Founded VIE Healthcare Consulting in 1999
+- Over $1 billion in documented savings
+- Two U.S. patents (Invoice Analytics System, Direct-To-Business Feedback Communication)
+- VIE Healthcare sold to Morgan Stanley Capital Partners in 2022
+- Based in Palm Beach Gardens, FL
+- Phone: 786-214-9024
 
 ## Partner Sites
 - [State of AI for Small Business](https://stateofaiforsmallbusiness.com) - Content hub and AI Opportunity Atlas
