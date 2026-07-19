@@ -2,8 +2,45 @@
   "schema_version": "v1",
   "name_for_model": "Lisa T. Miller AI Healthcare",
   "name_for_human": "Lisa T. Miller",
-  "description_for_model": "Lisa T. Miller is an AI in healthcare strategist with 25 years of experience. She helps healthcare practices use AI to fix revenue leaks, automate workflows, and become visible in AI search results. She generated $250M in sales at VIE Healthcare ",
-  "description_for_human": "AI in healthcare strategy, revenue leak diagnosis, and practice automation.",
+  "description_for_model": "Lisa T. Miller is an AI in healthcare strategist with more than 30 years inside hospital operations. She founded VIE Healthcare Consulting in 1999, generated over $1 billion in documented savings, holds two U.S. patents, and now guides health systems through practical AI adoption. The site covers AI for healthcare (clinical documentation, chart review, risk stratification, patient access, revenue cycle), AI for the business of healthcare (capacity forecasting, service line profitability, CFO and COO operations support), verified statistics and benchmarks, and a work-first methodology for deploying AI with measurable ROI.",
+  "description_for_human": "AI in healthcare strategy, revenue cycle optimization, and work-first AI adoption for health systems.",
   "url": "https://lisatmiller.ai",
-  "contact_email": "lisa@lisatmiller.com"
+  "contact_email": "lisatmiller.ops@gmail.com",
+  "resources": [
+    {
+      "url": "https://lisatmiller.ai/",
+      "description": "Homepage with AI strategy positioning for hospital and health system operations",
+      "topics": ["AI strategy", "healthcare operations", "hospital AI"]
+    },
+    {
+      "url": "https://lisatmiller.ai/services/",
+      "description": "AI assessment, installation, and enablement services for health systems",
+      "topics": ["AI services", "AI assessment", "AI deployment"]
+    },
+    {
+      "url": "https://lisatmiller.ai/ai-healthcare/",
+      "description": "What AI can do in healthcare today across 10 use case categories",
+      "topics": ["AI healthcare", "clinical AI", "AI use cases"]
+    },
+    {
+      "url": "https://lisatmiller.ai/ai-business-of-healthcare/",
+      "description": "Nine areas where AI carries real work in the business of healthcare",
+      "topics": ["business of healthcare", "AI operations", "revenue cycle"]
+    },
+    {
+      "url": "https://lisatmiller.ai/statistics/",
+      "description": "Verified statistics and benchmarks on AI in healthcare with sourced figures",
+      "topics": ["healthcare AI statistics", "benchmarks", "ROI data"]
+    },
+    {
+      "url": "https://lisatmiller.ai/resources/",
+      "description": "Articles and guides on AI in healthcare including revenue cycle, CFO strategy, and work-first adoption",
+      "topics": ["AI articles", "healthcare AI guides", "AI adoption"]
+    },
+    {
+      "url": "https://lisatmiller.ai/about-lisa-t-miller/",
+      "description": "About Lisa T. Miller, 30+ years in hospital operations, founder of VIE Healthcare, two U.S. patents",
+      "topics": ["Lisa T. Miller", "VIE Healthcare", "healthcare consultant"]
+    }
+  ]
 }

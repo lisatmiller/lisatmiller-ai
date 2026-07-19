@@ -1,15 +1,16 @@
 # Lisa T. Miller — AI Strategy for Healthcare Operations
-> Author, speaker, and former hospital operations executive with 30+ years of experience helping health systems reduce administrative waste through AI automation. Holds 2 U.S. patents in healthcare analytics.
 
-## Core pages
+> Lisa T. Miller is an AI in healthcare strategist with more than 30 years inside hospital operations. She founded VIE Healthcare Consulting in 1999, generated over $1 billion in documented savings, holds two U.S. patents, and now guides health systems through practical AI adoption.
+
+## Core Pages
 - [Home](https://lisatmiller.ai/): AI strategy for hospital and health system operations
-- [About Lisa T. Miller](https://lisatmiller.ai/about-lisa-t-miller/): Biography, credentials, patents, and professional background
-- [Services](https://lisatmiller.ai/services/): AI strategy, revenue cycle automation, operational assessments
-- [AI for Healthcare](https://lisatmiller.ai/ai-healthcare/): AI applications across 10 healthcare domains
-- [AI for the Business of Healthcare](https://lisatmiller.ai/ai-business-of-healthcare/): AI for revenue cycle, compliance, and administrative operations
-- [Statistics & Benchmarks](https://lisatmiller.ai/statistics/): Verified healthcare AI statistics and benchmarks
+- [Services](https://lisatmiller.ai/services/): AI assessment, installation, and enablement for health systems
+- [About Lisa T. Miller](https://lisatmiller.ai/about-lisa-t-miller/): 30+ years in hospital operations, founder of VIE Healthcare, two U.S. patents
+- [AI for Healthcare](https://lisatmiller.ai/ai-healthcare/): What AI can do in healthcare today across 10 use case categories
+- [AI for the Business of Healthcare](https://lisatmiller.ai/ai-business-of-healthcare/): Nine areas where AI carries real work in healthcare operations
+- [Statistics and Benchmarks](https://lisatmiller.ai/statistics/): Verified healthcare AI statistics and benchmarks, every figure sourced
 - [Resources](https://lisatmiller.ai/resources/): Articles and guides on AI in healthcare
-- [Contact](https://lisatmiller.ai/contact/): Schedule a strategy call
+- [Contact](https://lisatmiller.ai/contact/): Schedule an executive strategy call
 
 ## Articles
 - [AI Is Not a Software Purchase](https://lisatmiller.ai/resources/ai-is-not-a-software-purchase/)
@@ -19,6 +20,15 @@
 - [Deciding Where AI Fits, a CFO's Guide](https://lisatmiller.ai/resources/deciding-where-ai-fits-cfo-guide/)
 - [Everyone Is Selling Intelligence. Nobody Has Read Your Operations.](https://lisatmiller.ai/resources/everyone-is-selling-intelligence/)
 
-## Social
-- LinkedIn: linkedin.com/in/lisatmiller
-- YouTube: youtube.com/@lisatmiller
+## Key Topics
+- AI in healthcare: clinical documentation, chart review, risk stratification, patient access, revenue cycle
+- AI for the business of healthcare: capacity forecasting, service line profitability, CFO and COO operations support
+- Work-first AI adoption: map the workflow, baseline it, match proven capability, prove in 90 days
+- Revenue cycle: denial prevention, eligibility verification, claim scrubbing, appeals automation
+
+## Contact
+- Phone: 786-214-9024
+- Address: 12455 Northlake Blvd., Suite 110-4, Palm Beach Gardens, FL 33412
+
+## Partner Sites
+- [State of AI for Small Business](https://stateofaiforsmallbusiness.com): Content hub and AI Opportunity Atlas
