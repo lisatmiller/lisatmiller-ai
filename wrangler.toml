@@ -1,10 +1,9 @@
 name = "lisatmiller-ai"
 compatibility_date = "2026-07-18"
-
-[assets]
-directory = "./public_html"
-
 routes = [
   { pattern = "lisatmiller.ai/*", zone_name = "lisatmiller.ai" },
   { pattern = "www.lisatmiller.ai/*", zone_name = "lisatmiller.ai" }
 ]
+
+[assets]
+directory = "/workspace/lisatmiller-ai/public_html"
