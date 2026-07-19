@@ -9,18 +9,18 @@
 - [AI for Healthcare](https://lisatmiller.ai/ai-healthcare/): What AI can do in healthcare today across 10 use case categories
 - [AI for the Business of Healthcare](https://lisatmiller.ai/ai-business-of-healthcare/): Nine areas where AI carries real work in healthcare operations
 - [Resources](https://lisatmiller.ai/resources/): Articles, statistics, and a readiness assessment on AI in healthcare
-- [Articles & Guides](https://lisatmiller.ai/resources/articles/): Six practical articles on AI in healthcare
-- [Statistics and Benchmarks](https://lisatmiller.ai/resources/statistics/): Verified healthcare AI statistics and benchmarks, every figure sourced
-- [Where Does AI Fit? Readiness Assessment](https://lisatmiller.ai/resources/where-does-ai-fit/): Eight-question self-assessment, three minutes, no email required
+- [Articles & Guides](https://lisatmiller.ai/articles/): Six practical articles on AI in healthcare
+- [Statistics and Benchmarks](https://lisatmiller.ai/statistics/): Verified healthcare AI statistics and benchmarks, every figure sourced
+- [Where Does AI Fit? Readiness Assessment](https://lisatmiller.ai/where-does-ai-fit/): Eight-question self-assessment, three minutes, no email required
 - [Contact](https://lisatmiller.ai/contact/): Schedule an executive strategy call
 
 ## Articles
-- [AI Is Not a Software Purchase](https://lisatmiller.ai/resources/ai-is-not-a-software-purchase/)
-- [The Work Nobody Went Into Healthcare to Do](https://lisatmiller.ai/resources/work-nobody-went-into-healthcare-to-do/)
-- [Your Best People Carry Your Most Broken Processes](https://lisatmiller.ai/resources/your-best-people-carry-broken-processes/)
-- [What AI Can Actually Do for the Revenue Cycle](https://lisatmiller.ai/resources/what-ai-can-do-for-revenue-cycle/)
-- [Deciding Where AI Fits, a CFO's Guide](https://lisatmiller.ai/resources/deciding-where-ai-fits-cfo-guide/)
-- [Everyone Is Selling Intelligence. Nobody Has Read Your Operations.](https://lisatmiller.ai/resources/everyone-is-selling-intelligence/)
+- [AI Is Not a Software Purchase](https://lisatmiller.ai/articles/ai-is-not-a-software-purchase/)
+- [The Work Nobody Went Into Healthcare to Do](https://lisatmiller.ai/articles/work-nobody-went-into-healthcare-to-do/)
+- [Your Best People Carry Your Most Broken Processes](https://lisatmiller.ai/articles/your-best-people-carry-broken-processes/)
+- [What AI Can Actually Do for the Revenue Cycle](https://lisatmiller.ai/articles/what-ai-can-do-for-revenue-cycle/)
+- [Deciding Where AI Fits, a CFO's Guide](https://lisatmiller.ai/articles/deciding-where-ai-fits-cfo-guide/)
+- [Everyone Is Selling Intelligence. Nobody Has Read Your Operations.](https://lisatmiller.ai/articles/everyone-is-selling-intelligence/)
 
 ## Key Topics
 - AI in healthcare: clinical documentation, chart review, risk stratification, patient access, revenue cycle
