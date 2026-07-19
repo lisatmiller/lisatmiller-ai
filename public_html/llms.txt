@@ -10,6 +10,7 @@
 - [AI for the Business of Healthcare](https://lisatmiller.ai/ai-business-of-healthcare/): Nine areas where AI carries real work in healthcare operations
 - [Statistics and Benchmarks](https://lisatmiller.ai/statistics/): Verified healthcare AI statistics and benchmarks, every figure sourced
 - [Resources](https://lisatmiller.ai/resources/): Articles and guides on AI in healthcare
+- [Where Does AI Fit? Readiness Assessment](https://lisatmiller.ai/where-does-ai-fit/): Eight-question self-assessment, three minutes, no email required
 - [Contact](https://lisatmiller.ai/contact/): Schedule an executive strategy call
 
 ## Articles
