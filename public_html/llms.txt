@@ -5,6 +5,7 @@
 ## Core Pages
 - [Home](https://lisatmiller.ai/): AI strategy for hospital and health system operations
 - [Services](https://lisatmiller.ai/services/): AI assessment, installation, and enablement for health systems
+- [What If AI Could Do This For You? Workshop](https://lisatmiller.ai/what-if-ai-can-do/): Signature working session where leadership teams ask what-if questions about challenges they thought were unsolvable and design a real AI automation in the room
 - [About Lisa T. Miller](https://lisatmiller.ai/about-lisa-t-miller/): 30+ years in hospital operations, founder of VIE Healthcare, two U.S. patents
 - [AI for Healthcare](https://lisatmiller.ai/ai-healthcare/): What AI can do in healthcare today across 10 use case categories
 - [AI for the Business of Healthcare](https://lisatmiller.ai/ai-business-of-healthcare/): Nine areas where AI carries real work in healthcare operations
